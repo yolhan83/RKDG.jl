@@ -1,0 +1,7 @@
+name = "RKDG"
+uuid = "d48f45bf-26a3-5dd2-b875-a29975cd122b"
+authors = ["yolhan <yolhan@laposte.net>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
