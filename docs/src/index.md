@@ -6,3 +6,4 @@ CurrentModule = RKDG
 
 Documentation for [RKDG](https://github.com/yolhan83/RKDG.jl).
 
+Welcome to the documentation for RKDG.jl!
