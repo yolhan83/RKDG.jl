@@ -1,5 +1,7 @@
 module RKDG
+using Polynomials
 
 include("Equations/Equations.jl")
-export AbstractEquation, flux, source
+include("Bases/Bases.jl")
+export AbstractEquation, flux, source,AbtsractBase, GaussLobatto1D, derivative
 end
